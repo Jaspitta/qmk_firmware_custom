@@ -14,9 +14,9 @@
     "processor": "RP2040",
     "url": "https://github.com/beekeeb/piantor",
     "usb": {
-        "device_version": "1.0.0",
+        "device_version": "2.0.0",
         "pid": "0x0001",
-        "vid": "0xBEEB"
+        "vid": "0x5353"
     },
     "bootmagic": {
         "matrix": [0, 5]
